@@ -35,39 +35,44 @@ Document(None)
 
 ### Enabling a Software-defined Automotive Edge with AGL - SDV-EG Updates - Jiancong (Jerry) Zhao, Panasonic Automotive Systems Co., Ltd.
 
-[Event page]()
+[Event page](https://sched.co/1NlVR)
 
-Document(None)
+[Document](https://static.sched.com/hosted_files/aglammsummer23/b8/2023_AGL-AMM_Enabling%20a%20Software-defined%20Automotive%20Edge%20with%20AGL%20-%20SDV-EG%20Updates%20.pdf)
 
- 
+[![](https://img.youtube.com/vi/A6Nwk_obBFw/0.jpg)](https://www.youtube.com/watch?v=A6Nwk_obBFw)
+
 ### How We Treat SBOM of Open Source Software for Renesas R-Car series - Yoshiyuki Ito, Renesas Electronics
 
-[Event page]()
+[Event page](https://sched.co/1NlSB)
 
-Document(None)
+[Document](https://static.sched.com/hosted_files/aglammsummer23/eb/SBOM_ON_RCAR_OSS_AGLAMM202307.pdf)
 
+[![](https://img.youtube.com/vi/c5FHTqvH7FY/0.jpg)](https://www.youtube.com/watch?v=c5FHTqvH7FY)
 
 ### Kernel-based RAD (Robust Adaptive DDR) Algorithms for High Temperature Automotive Environment - M Tamseel Shams & Thiagu Ramalingam, Samsung Semiconductor India Research
 
-[Event page]()
+[Event page](https://sched.co/1NlSE)
 
-Document(None)
+[Document](https://static.sched.com/hosted_files/aglammsummer23/12/Kernel%20based%20RAD%20%28Robust%20Adaptive%20DDR%29%20algorithms%20for%20High%20Temperature%20Automotive%20Environment.pptx.pdf)
 
+[![](https://img.youtube.com/vi/5902wFmc9KQ/0.jpg)](https://www.youtube.com/watch?v=5902wFmc9KQ)
 
 ### Evolving VSS Usage in AGL - Scott Murray, Konsulko Group
 
-[Event page]()
+[Event page](https://sched.co/1NlSH)
 
-Document(None)
+[Document](https://static.sched.com/hosted_files/aglammsummer23/35/Evolving%20VSS%20Usage%20in%20AGL.pdf)
 
+[![](https://img.youtube.com/vi/YL3pYKsNzZQ/0.jpg)](https://www.youtube.com/watch?v=YL3pYKsNzZQ)
 
 ### Upstreaming Status for the ICEG Demo Integration Based on CES2023 Demo - Naoto Yamaguchi, AISIN
 
-[Event page]()
+[Event page](https://sched.co/1NmE9)
 
-Document(None)
+[Document](https://static.sched.com/hosted_files/aglammsummer23/3f/AGL_amm2023jp_pdf.pdf)
 
- 
+[![](https://img.youtube.com/vi/7rBRsY-j6Eo&t=1421s/0.jpg)](https://www.youtube.com/watch?v=7rBRsY-j6Eo&t=1421s)
+
 ## Thursday, July 13
 ### Vehicle to Cloud Expert Group – Project Updates - James Simon, Amazon
 
