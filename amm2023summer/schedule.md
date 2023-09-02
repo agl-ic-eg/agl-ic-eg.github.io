@@ -3,47 +3,69 @@
  
 ### Keynote Session: AGL State of the Alliance - Dan Cauchy, AGL Executive Director, The Linux Foundation
 
+[Event page](https://sched.co/1NlTG)
+
 Document(None)
 
-[![Movie](https://img.youtube.com/vi/AR4yL-stTL4&t=31s/0.jpg)](https://www.youtube.com/watch?v=AR4yL-stTL4&t=31s)
+[![](https://img.youtube.com/vi/AR4yL-stTL4&t=31s/0.jpg)](https://www.youtube.com/watch?v=AR4yL-stTL4&t=31s)
 
 ### Keynote Session: Accelerating Software Defined Vehicle: Technology Evolution and the Power of AGL - Mizuyama Masashige, Director, EVP & CTO, Panasonic Automotive Systems Co., Ltd.
-- Document(None)
-- Movie
+
+[Event page](https://sched.co/1O3E1)
+
+[Document](https://static.sched.com/hosted_files/aglammsummer23/06/202307_AMMJ_Keynote_Mizuyama.pdf)
+
+[![](https://img.youtube.com/vi/zZxqssEWhMk&t=4s/0.jpg)](https://www.youtube.com/watch?v=zZxqssEWhMk&t=4s)
 
 ### Keynote Session: Explore the Vehicle Intelligence 2.0 - Hisao Munakata, Senior Director, Renesas Electronics Corp.
-- Document(None)
-- Movie
+
+[Event page](https://sched.co/1NlTP)
+
+Document(None)
+
+[![](https://img.youtube.com/vi/YHI8BK-2RfM/0.jpg)](https://www.youtube.com/watch?v=YHI8BK-2RfM)
 
 ### AGL Status and Roadmap Update - Walt Miner, The Linux Foundation
 
-- Document(None)
-- Movie
+[Event page](https://sched.co/1NlSK)
+
+[Document](https://static.sched.com/hosted_files/aglammsummer23/af/AGL%20Roadmap%20Miner%20AMM%20Summer%202023.pdf)
+
+[![](https://img.youtube.com/vi/myJUCmtyCJU&t=131s/0.jpg)](https://www.youtube.com/watch?v=myJUCmtyCJU&t=131s)
 
 ### Enabling a Software-defined Automotive Edge with AGL - SDV-EG Updates - Jiancong (Jerry) Zhao, Panasonic Automotive Systems Co., Ltd.
 
-- Document(None)
-- Movie
+[Event page]()
+
+Document(None)
+
  
 ### How We Treat SBOM of Open Source Software for Renesas R-Car series - Yoshiyuki Ito, Renesas Electronics
 
-- Document(None)
-- Movie
+[Event page]()
+
+Document(None)
+
 
 ### Kernel-based RAD (Robust Adaptive DDR) Algorithms for High Temperature Automotive Environment - M Tamseel Shams & Thiagu Ramalingam, Samsung Semiconductor India Research
 
-- Document(None)
-- Movie
+[Event page]()
+
+Document(None)
+
 
 ### Evolving VSS Usage in AGL - Scott Murray, Konsulko Group
 
-- Document(None)
-- Movie
+[Event page]()
+
+Document(None)
+
 
 ### Upstreaming Status for the ICEG Demo Integration Based on CES2023 Demo - Naoto Yamaguchi, AISIN
 
-- Document(None)
-- Movie
+[Event page]()
+
+Document(None)
 
  
 ## Thursday, July 13
