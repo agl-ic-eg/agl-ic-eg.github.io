@@ -2,8 +2,10 @@
 ## Wednesday, July 12
  
 ### Keynote Session: AGL State of the Alliance - Dan Cauchy, AGL Executive Director, The Linux Foundation
-- Document(None)
-- Movie
+
+Document(None)
+
+[![Movie](https://img.youtube.com/vi/AR4yL-stTL4&t=31s/0.jpg)](https://www.youtube.com/watch?v=AR4yL-stTL4&t=31s)
 
 ### Keynote Session: Accelerating Software Defined Vehicle: Technology Evolution and the Power of AGL - Mizuyama Masashige, Director, EVP & CTO, Panasonic Automotive Systems Co., Ltd.
 - Document(None)
