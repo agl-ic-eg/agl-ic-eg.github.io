@@ -6,48 +6,53 @@
 ### Keynote Session: AGL State of the Alliance
 #### Dan Cauchy, AGL Executive Director, The Linux Foundation
 
-[Event page]()
+[Event page](https://sched.co/1HtGs)
 
-[Document]()
+Document
 
+[![](https://img.youtube.com/vi/nFyap9B6Cc4&t=171s/0.jpg)](https://www.youtube.com/watch?v=nFyap9B6Cc4&t=171s)
 
-
+---
 ### Keynote Session: Software Defined Vehicle trends and Key Technologies
 #### Masashige Mizuyama, Director, Executive VP & CTO, Panasonic Automotive Systems Co., Ltd.
 
-[Event page]()
+[Event page](https://sched.co/1JMWz)
 
-[Document]()
+Document
 
+[![](https://img.youtube.com/vi/K3RBg3wNgjE/0.jpg)](https://www.youtube.com/watch?v=K3RBg3wNgjE)
 
-
+---
 ### Keynote Session: Using API-first Principles to Drive Automotive Software Collaboration
 #### Magnus Feuer, Head of Technology - MBition, Mercedes Benz
 
-[Event page]()
+[Event page](https://sched.co/1JMVd)
 
-[Document]()
+[Document](https://static.sched.com/hosted_files/aglammspring2023/8e/AGL%20AMM%20Keynote%20Mercedes.pptx)
 
+[![](https://img.youtube.com/vi/KdbMfxiV6rk/0.jpg)](https://www.youtube.com/watch?v=KdbMfxiV6rk)
 
-
+---
 ### Keynote Session: Linux at the Cross-section of Technologies: Where Does the Automotive Road Lead Us?
 #### Nedeljko Miljevic, Software & Functions Team Manager, AVL Software and Functions GmbH
 
-[Event page]()
+[Event page](https://sched.co/1IMP8)
 
-[Document]()
+Document
 
+[![](https://img.youtube.com/vi/Js2PlW-9baI/0.jpg)](https://www.youtube.com/watch?v=Js2PlW-9baI)
 
-
+---
 ### AGL Roadmap Update
 #### Walt Miner, The Linux Foundation
 
-[Event page]()
+[Event page](https://sched.co/1IMPc)
 
-[Document]()
+Document
 
+[![](https://img.youtube.com/vi/c25j1-xlvzE/0.jpg)](https://www.youtube.com/watch?v=c25j1-xlvzE)
 
-
+---
 ### Cloud-Native Automotive Edge: AGL for Software-Defined Vehicles
 #### Jiancong (Jerry) Zhao, Panasonic Automotive Systems Co., Ltd.
 
