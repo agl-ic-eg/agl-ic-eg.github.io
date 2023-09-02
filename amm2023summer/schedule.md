@@ -2,7 +2,8 @@
 ## Wednesday, July 12
 
 ---
-### Keynote Session: AGL State of the Alliance - Dan Cauchy, AGL Executive Director, The Linux Foundation
+### Keynote Session: AGL State of the Alliance
+#### Dan Cauchy, AGL Executive Director, The Linux Foundation
 
 [Event page](https://sched.co/1NlTG)
 
@@ -11,7 +12,8 @@ Document(None)
 [![](https://img.youtube.com/vi/AR4yL-stTL4&t=31s/0.jpg)](https://www.youtube.com/watch?v=AR4yL-stTL4&t=31s)
 
 ---
-### Keynote Session: Accelerating Software Defined Vehicle: Technology Evolution and the Power of AGL - Mizuyama Masashige, Director, EVP & CTO, Panasonic Automotive Systems Co., Ltd.
+### Keynote Session: Accelerating Software Defined Vehicle: Technology Evolution and the Power of AGL
+#### Mizuyama Masashige, Director, EVP & CTO, Panasonic Automotive Systems Co., Ltd.
 
 [Event page](https://sched.co/1O3E1)
 
@@ -20,7 +22,8 @@ Document(None)
 [![](https://img.youtube.com/vi/zZxqssEWhMk&t=4s/0.jpg)](https://www.youtube.com/watch?v=zZxqssEWhMk&t=4s)
 
 ---
-### Keynote Session: Explore the Vehicle Intelligence 2.0 - Hisao Munakata, Senior Director, Renesas Electronics Corp.
+### Keynote Session: Explore the Vehicle Intelligence 2.0
+#### Hisao Munakata, Senior Director, Renesas Electronics Corp.
 
 [Event page](https://sched.co/1NlTP)
 
@@ -29,7 +32,8 @@ Document(None)
 [![](https://img.youtube.com/vi/YHI8BK-2RfM/0.jpg)](https://www.youtube.com/watch?v=YHI8BK-2RfM)
 
 ---
-### AGL Status and Roadmap Update - Walt Miner, The Linux Foundation
+### AGL Status and Roadmap Update
+#### Walt Miner, The Linux Foundation
 
 [Event page](https://sched.co/1NlSK)
 
@@ -38,7 +42,8 @@ Document(None)
 [![](https://img.youtube.com/vi/myJUCmtyCJU&t=131s/0.jpg)](https://www.youtube.com/watch?v=myJUCmtyCJU&t=131s)
 
 ---
-### Enabling a Software-defined Automotive Edge with AGL - SDV-EG Updates - Jiancong (Jerry) Zhao, Panasonic Automotive Systems Co., Ltd.
+### Enabling a Software-defined Automotive Edge with AGL - SDV-EG Updates
+#### Jiancong (Jerry) Zhao, Panasonic Automotive Systems Co., Ltd.
 
 [Event page](https://sched.co/1NlVR)
 
@@ -47,7 +52,8 @@ Document(None)
 [![](https://img.youtube.com/vi/A6Nwk_obBFw/0.jpg)](https://www.youtube.com/watch?v=A6Nwk_obBFw)
 
 ---
-### How We Treat SBOM of Open Source Software for Renesas R-Car series - Yoshiyuki Ito, Renesas Electronics
+### How We Treat SBOM of Open Source Software for Renesas R-Car series
+#### Yoshiyuki Ito, Renesas Electronics
 
 [Event page](https://sched.co/1NlSB)
 
@@ -56,7 +62,8 @@ Document(None)
 [![](https://img.youtube.com/vi/c5FHTqvH7FY/0.jpg)](https://www.youtube.com/watch?v=c5FHTqvH7FY)
 
 ---
-### Kernel-based RAD (Robust Adaptive DDR) Algorithms for High Temperature Automotive Environment - M Tamseel Shams & Thiagu Ramalingam, Samsung Semiconductor India Research
+### Kernel-based RAD (Robust Adaptive DDR) Algorithms for High Temperature Automotive Environment 
+#### M Tamseel Shams & Thiagu Ramalingam, Samsung Semiconductor India Research
 
 [Event page](https://sched.co/1NlSE)
 
@@ -65,7 +72,8 @@ Document(None)
 [![](https://img.youtube.com/vi/5902wFmc9KQ/0.jpg)](https://www.youtube.com/watch?v=5902wFmc9KQ)
 
 ---
-### Evolving VSS Usage in AGL - Scott Murray, Konsulko Group
+### Evolving VSS Usage in AGL
+#### Scott Murray, Konsulko Group
 
 [Event page](https://sched.co/1NlSH)
 
@@ -74,7 +82,8 @@ Document(None)
 [![](https://img.youtube.com/vi/YL3pYKsNzZQ/0.jpg)](https://www.youtube.com/watch?v=YL3pYKsNzZQ)
 
 ---
-### Upstreaming Status for the ICEG Demo Integration Based on CES2023 Demo - Naoto Yamaguchi, AISIN
+### Upstreaming Status for the ICEG Demo Integration Based on CES2023 Demo
+#### Naoto Yamaguchi, AISIN
 
 [Event page](https://sched.co/1NmE9)
 
