@@ -8,7 +8,7 @@
 
 [Event page](https://sched.co/1NlTG)
 
-[Document](None)
+Document
 
 [![](https://img.youtube.com/vi/AR4yL-stTL4&t=31s/0.jpg)](https://www.youtube.com/watch?v=AR4yL-stTL4&t=31s)
 
@@ -28,7 +28,7 @@
 
 [Event page](https://sched.co/1NlTP)
 
-[Document](None)
+Document
 
 [![](https://img.youtube.com/vi/YHI8BK-2RfM/0.jpg)](https://www.youtube.com/watch?v=YHI8BK-2RfM)
 
