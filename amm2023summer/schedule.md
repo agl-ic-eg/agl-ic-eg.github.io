@@ -161,45 +161,44 @@ Document
 ### Using Wireless Communications in AGL
 #### Yan Xinkuan, Nanjing Fujitsu Nanda Software Technology.Co.,Ltd
 
-[Event page](None)
+[Event page](https://sched.co/1NlS8)
 
-[Document]()
+Document
 
-
+[![](https://img.youtube.com/vi/PkdQOm93lyY&t=4s/0.jpg)](https://www.youtube.com/watch?v=PkdQOm93lyY&t=4s)
 
 ### How to Use OE-Selftest in Your Own Projects
 #### Jan-Simon Moeller, The Linux Foundation
 
-[Event page](None)
+[Event page](https://sched.co/1NlUt)
 
-[Document]()
+[Document](https://static.sched.com/hosted_files/aglammsummer23/0d/AGL-AMM-2023-TOKYO-JSMOELLER-How-to-Use-OE-Selftest.pdf)
 
-
+[![](https://img.youtube.com/vi/LxxchIidhEU/0.jpg)](https://www.youtube.com/watch?v=LxxchIidhEU)
 
 ### Rethinking the Safety for Linux-based Automotive System
 #### Tianhong Ding, Hangzhou Huawei Enterprises Telecommunication Technologies Co., Ltd
 
-[Event page](None)
+[Event page](https://sched.co/1NlRz)
 
-[Document]()
+[Document](https://static.sched.com/hosted_files/aglammsummer23/33/AGL-AMM-Summer2023-Rethinking%20the%20safety%20for%20Linux-based%20automotive%20system-1.pdf)
 
-
+[![](https://img.youtube.com/vi/Nz4CUAx-CCY/0.jpg)](https://www.youtube.com/watch?v=Nz4CUAx-CCY)
 
 ### How to Transparently Run Applications on Hypervisor and Hypervisor-less Systems with Virtio-Loopback
 #### Michele Paolino & Timos Ampelikiotis, Virtual Open Systems SAS
 
-[Event page](None)
+[Event page](https://sched.co/1NlS2)
 
-[Document]()
+[Document](https://static.sched.com/hosted_files/aglammsummer23/9a/How%20to%20Transparently%20Run%20Applications%20with%20Virtio-Loopback.pdf)
 
-
+[![](https://img.youtube.com/vi/Lfj3dYCAiik/0.jpg)](https://www.youtube.com/watch?v=Lfj3dYCAiik)
 
 ### Web Applications Support with the Chromium Embedded Framework on AGL
 #### Roger Felipe Zanoni da Silva, Igalia S.L.
 
-[Event page](None)
+[Event page](https://sched.co/1NlST)
 
-[Document]()
+[Document](https://static.sched.com/hosted_files/aglammsummer23/ca/Web%20applications%20support%20with%20the%20Chromium%20Embedded%20Framework%20on%20AGL.pdf)
 
-
-
+[![](https://img.youtube.com/vi/8zrLCGjwJ3k/0.jpg)](https://www.youtube.com/watch?v=8zrLCGjwJ3k)
