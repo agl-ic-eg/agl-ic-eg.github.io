@@ -1,13 +1,14 @@
 # Automotive Grade Linux All Member Meeting Summer
-## Wednesday, July 12
+---
 
+## Wednesday, July 12
 ---
 ### Keynote Session: AGL State of the Alliance
 #### Dan Cauchy, AGL Executive Director, The Linux Foundation
 
 [Event page](https://sched.co/1NlTG)
 
-Document(None)
+[Document](None)
 
 [![](https://img.youtube.com/vi/AR4yL-stTL4&t=31s/0.jpg)](https://www.youtube.com/watch?v=AR4yL-stTL4&t=31s)
 
@@ -27,7 +28,7 @@ Document(None)
 
 [Event page](https://sched.co/1NlTP)
 
-Document(None)
+[Document](None)
 
 [![](https://img.youtube.com/vi/YHI8BK-2RfM/0.jpg)](https://www.youtube.com/watch?v=YHI8BK-2RfM)
 
@@ -93,63 +94,112 @@ Document(None)
 
 ---
 ## Thursday, July 13
-### Vehicle to Cloud Expert Group – Project Updates - James Simon, Amazon
+---
+### Vehicle to Cloud Expert Group – Project Updates
+#### James Simon, Amazon
 
-- Document(None)
-- Movie
+[Event page](https://sched.co/1NzJV)
+
+[Document](None)
+
+[![](https://img.youtube.com/vi/X1yaXCnk_r8/0.jpg)](https://www.youtube.com/watch?v=X1yaXCnk_r8)
  
-### Why You Should Care About Reproducible Builds and SBOM - Jan-Simon Moeller, The Linux Foundation
+### Why You Should Care About Reproducible Builds and SBOM
+#### Jan-Simon Moeller, The Linux Foundation
 
-- Document(None)
-- Movie
+[Event page](https://sched.co/1NlUb)
 
-### Achieving a Software-Defined Multi-Display System with Unified HMI - Kenta Murakami, Panasonic Automotive Systems Co., Ltd.
+[Document](https://static.sched.com/hosted_files/aglammsummer23/02/AGL-AMM-2023-TOKYO-JSMOELLER-WHY-YOU-SHOULD-CARE-ABOUT-REPRODUCIBLE-BUILDS.pdf)
 
-- Document(None)
-- Movie
+[![](https://img.youtube.com/vi/N4zYHcEcPPU/0.jpg)](https://www.youtube.com/watch?v=N4zYHcEcPPU)
+
+### Achieving a Software-Defined Multi-Display System with Unified HMI
+#### Kenta Murakami, Panasonic Automotive Systems Co., Ltd.
+
+[Event page](https://sched.co/1NlX7)
+
+[Document](https://static.sched.com/hosted_files/aglammsummer23/2a/Achieving%20a%20Software-Defined%20Multi-Display%20System%20with%20Unified%20HMI%20-%20Kenta%20Murakami%20-%20Panasonic%20Automotive%20Systems.pdf)
+
+[![](https://img.youtube.com/vi/k_T2zbEjlA0/0.jpg)](https://www.youtube.com/watch?v=k_T2zbEjlA0)
+
+### The RTOS Initiative in Automotive Grade Linux
+#### Richard Elberger, Amazon Web Services
+
+[Event page](https://sched.co/1NmFP)
+
+[Document](https://static.sched.com/hosted_files/aglammsummer23/82/2023_0713_AGL%20RTOS.pdf)
+
+[![](https://img.youtube.com/vi/ghq6qvlMakA/0.jpg)](https://www.youtube.com/watch?v=ghq6qvlMakA)
+
+### Debugging Tools and Techniques for Virtualized Automotive Systems
+#### Hiroyuki Ishii, Panasonic Automotive Systems
+
+[Event page](https://sched.co/1NzJL)
+
+[Document](https://static.sched.com/hosted_files/aglammsummer23/14/AGL_AMM_2023_SUMMER_Debugging_Tools_for_Virtualization_v2.pdf)
+
+[![](https://img.youtube.com/vi/bhLsHHMPO74&t=66s/0.jpg)](https://www.youtube.com/watch?v=bhLsHHMPO74&t=66s)
  
-### The RTOS Initiative in Automotive Grade Linux - Richard Elberger, Amazon Web Services
+### Embedded Flutter
+#### Joel Winarske, Toyota Connected North America
 
-- Document(None)
-- Movie
+[Event page](https://sched.co/1NmET)
 
-### Debugging Tools and Techniques for Virtualized Automotive Systems - Hiroyuki Ishii, Panasonic Automotive Systems
+[Document](https://static.sched.com/hosted_files/aglammsummer23/c3/Summer%20AGLMM%20Tokyo.pdf)
 
-- Document(None)
-- Movie
+[![](https://img.youtube.com/vi/hYLqW-0eb1E/0.jpg)](https://www.youtube.com/watch?v=hYLqW-0eb1E)
+
+### AGL and SOAFEE, The Perfect Solution
+#### Matt Spencer, Arm
+
+[Event page](https://sched.co/1NlS5)
+
+[Document](https://static.sched.com/hosted_files/aglammsummer23/c8/SOAFEE_AGL_2023.pdf)
+
+[![](https://img.youtube.com/vi/I-d2NYZWm6A/0.jpg)](https://www.youtube.com/watch?v=I-d2NYZWm6A)
  
-### Embedded Flutter - Joel Winarske, Toyota Connected North America
+### Using Wireless Communications in AGL
+#### Yan Xinkuan, Nanjing Fujitsu Nanda Software Technology.Co.,Ltd
 
-- Document(None)
-- Movie
+[Event page](None)
 
-### AGL and SOAFEE, The Perfect Solution - Matt Spencer, Arm
+[Document]()
 
-- Document(None)
-- Movie
- 
-### Using Wireless Communications in AGL - Yan Xinkuan, Nanjing Fujitsu Nanda Software Technology.Co.,Ltd
 
-- Document(None)
-- Movie
 
-### How to Use OE-Selftest in Your Own Projects - Jan-Simon Moeller, The Linux Foundation
+### How to Use OE-Selftest in Your Own Projects
+#### Jan-Simon Moeller, The Linux Foundation
 
-- Document(None)
-- Movie
+[Event page](None)
 
-### Rethinking the Safety for Linux-based Automotive System - Tianhong Ding, Hangzhou Huawei Enterprises Telecommunication Technologies Co., Ltd
+[Document]()
 
-- Document(None)
-- Movie
 
-### How to Transparently Run Applications on Hypervisor and Hypervisor-less Systems with Virtio-Loopback - Michele Paolino & Timos Ampelikiotis, Virtual Open Systems SAS
 
-- Document(None)
-- Movie
+### Rethinking the Safety for Linux-based Automotive System
+#### Tianhong Ding, Hangzhou Huawei Enterprises Telecommunication Technologies Co., Ltd
 
-### Web Applications Support with the Chromium Embedded Framework on AGL - Roger Felipe Zanoni da Silva, Igalia S.L.
+[Event page](None)
 
-- Document(None)
-- Movie
+[Document]()
+
+
+
+### How to Transparently Run Applications on Hypervisor and Hypervisor-less Systems with Virtio-Loopback
+#### Michele Paolino & Timos Ampelikiotis, Virtual Open Systems SAS
+
+[Event page](None)
+
+[Document]()
+
+
+
+### Web Applications Support with the Chromium Embedded Framework on AGL
+#### Roger Felipe Zanoni da Silva, Igalia S.L.
+
+[Event page](None)
+
+[Document]()
+
+
 
