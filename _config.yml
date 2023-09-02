@@ -6,6 +6,6 @@ commonmark:
 title: [Automotive Grade Linux Documantation Link]
 description: [Documentation link for the passed AGL All Member Meeting, Automotive Linux Summit and other.]
 
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
 - jekyll-remote-theme
