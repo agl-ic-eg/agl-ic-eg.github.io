@@ -1,13 +1,10 @@
+# Automotive Grade Linux All Member Meeting Spring
+---
+## Wednesday, March 8
 
-Wednesday, March 8
- 
-08:00 CET
- 
-Registration + Badge Pick-up Foyer, Ground Floor
-
-09:00 CET
- 
-Keynote Session: AGL State of the Alliance - Dan Cauchy, AGL Executive Director, The Linux Foundation Saphir 1
+---
+### Keynote Session: AGL State of the Alliance
+#### Dan Cauchy, AGL Executive Director, The Linux Foundation Saphir 1
 
 09:25 CET
  
